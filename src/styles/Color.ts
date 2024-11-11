@@ -9,4 +9,3 @@ export const myColors = {
     white: '#FFFFFF',
     result: '#46D5B2',
 }
-
