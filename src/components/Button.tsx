@@ -9,7 +9,6 @@ interface ButtonProps {
     isBlue?: boolean;
     isGray?: boolean;
 }
-
 export default function Button({title , onPress, isBlue, isGray}: ButtonProps) {
     const theme = useContext(ThemeContext);
     return (
